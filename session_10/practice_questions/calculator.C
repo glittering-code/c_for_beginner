@@ -23,9 +23,8 @@ int main()
      } else if(operation == '%'){
          int answer = a%b;
          printf("answer is %d\n",answer);
-        //printf("please enter the correct operator\n");    
+     } else {
+        printf("please enter the correct operator\n"); 
      }
-    //printf("Hello World");
-
     return 0;
 }
