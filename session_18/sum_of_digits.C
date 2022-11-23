@@ -1,4 +1,4 @@
-// Online C compiler to run C program online
+//C porgram to calculate sum of digits of a number
 #include <stdio.h>
 
 int main() {
