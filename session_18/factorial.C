@@ -1,4 +1,4 @@
-// Online C compiler to run C program online
+// C program to calculate factorial of a number
 #include <stdio.h>
 
 int main() {
