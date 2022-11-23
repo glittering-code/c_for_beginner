@@ -1,4 +1,4 @@
-// Online C compiler to run C program online
+// C program to Count no of positive, negative and zeros from n numbers entered through keyboard
 #include <stdio.h>
 
 int main() {
